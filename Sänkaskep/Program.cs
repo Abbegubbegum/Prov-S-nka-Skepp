@@ -56,7 +56,7 @@ namespace Sänkaskep
                     }
                 }
 
-                //Calculates diff
+                //Calculates difference and gives scores
                 diff = GuessCheck(ship, iGuess);
 
                 if (diff == 0)
